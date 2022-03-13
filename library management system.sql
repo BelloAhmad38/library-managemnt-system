@@ -1,7 +1,7 @@
 /*========== creating the database=================== */
 CREATE SCHEMA `library_management_system`;
 
-/* =======================creating the tables*===============/
+
 
 CREATE TABLE `library_management_system`.`books` (
   `ID` INT NOT NULL AUTO_INCREMENT,
